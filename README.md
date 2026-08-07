@@ -42,4 +42,5 @@ Per i manutentori o per chi desidera compilare il software dal codice sorgente, 
 
 1. Clonare il repository in locale:
    ```bash
+   git clone https://github.com/daccide/Card-Proxy-aligner-CFV-Multi-format.git
    cd card-printer
